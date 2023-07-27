@@ -1,5 +1,0 @@
-0000000000000000000000000000000000000000 3b978f876b1c0ad122ee80f2f857d83c7571acd2 mario.spoljar <mario.spoljar@gmail.com> 1690402114 +0200	clone: from gitlab.com:py-udemy1/expense-tracker-api.git
-3b978f876b1c0ad122ee80f2f857d83c7571acd2 ac27f699c06a0970aaf7301f46fa98f6c25346a4 mario.spoljar <mario.spoljar@gmail.com> 1690406001 +0200	commit: Initial commit (with .gitignore)
-ac27f699c06a0970aaf7301f46fa98f6c25346a4 530ae135edf5c3df20bff49290ded8d6a5bd8d23 mario.spoljar <mario.spoljar@gmail.com> 1690481084 +0200	commit: Installed django-rest-framework
-530ae135edf5c3df20bff49290ded8d6a5bd8d23 9364cc2b11ba199d4d3194d2b9a04accccee5fa6 mario.spoljar <mario.spoljar@gmail.com> 1690486965 +0200	commit: Added model for expenses. Added tests for expenses.
-9364cc2b11ba199d4d3194d2b9a04accccee5fa6 714cd41b2d3bb271704dd3b0fd64c7dff289d927 mario.spoljar <mario.spoljar@gmail.com> 1690487970 +0200	commit: Renamed .github/workslow to .github/workflows. Adopted yml file
